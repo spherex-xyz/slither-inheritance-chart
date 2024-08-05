@@ -7,7 +7,7 @@ target_path = "/path/to/protocol"
 
 def generate_mermaid_diagram(target_path):
     # Creating a new graph, a set to track edges, and a set to track nodes
-    mermaid_diagram = ["graph TD;"]
+    mermaid_diagram = ["graph LR;"]
     edges = set()
     nodes = set()
 
