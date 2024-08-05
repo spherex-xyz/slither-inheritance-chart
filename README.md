@@ -26,4 +26,3 @@ Before running the script, ensure you have the python installed:
    ```bash
    python generate_inheritance_md.py
    ```
-   
