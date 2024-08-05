@@ -24,5 +24,5 @@ Before running the script, ensure you have the python installed:
 4. **Run script**
    
    ```bash
-   python generate_mermaid_diagram.py
+   python generate_inheritance_md.py
    ```
