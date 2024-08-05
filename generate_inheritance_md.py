@@ -2,7 +2,7 @@ from slither.slither import Slither
 import subprocess
 
 # Replace this with the path to your Solidity protocol
-target_path = "/Users/shirashalev/Documents/sidereus/_clients/OlympusDAOOBTest1/code"
+target_path = "/path/to/protocol"
 
 
 def generate_mermaid_diagram(target_path):
